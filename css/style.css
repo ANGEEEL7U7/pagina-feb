@@ -1,0 +1,32 @@
+#img-login{
+background-image: url('../source/1_v3Sik_iRrLltzYjLb1b6SQ.webp');
+width: 100%;
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#bg-section{
+background-image: url('../source/il_794xN.2503968503_rkw6.webp');
+background-size: cover;
+}
+#img-body{
+background-image: url('../source/tp_17791672828738_normal.jpeg');
+background-size: cover;
+}
+#bg-card1{
+background-image: url('../source/WhatsApp\ Image\ 2023-02-17\ at\ 22.22.34.jpeg');
+background-size: cover;
+color: white;
+}
+#bg-card2{
+background-image: url('../source/WhatsApp\ Image\ 2023-02-17\ at\ 22.22.57.jpeg');
+background-size: cover;
+color: white;
+}
+#bg-card3{
+background-image: url('../source/WhatsApp\ Image\ 2023-02-17\ at\ 22.22.57\ \(1\).jpeg');
+background-size: cover;
+background-position: center;
+color: white;
+}
